@@ -1,0 +1,2 @@
+Set-executionpolicy remotesigned -Force
+& C:\Users\root1\Documents\Laptop-setup\Laptop-setup_With_user_creation
